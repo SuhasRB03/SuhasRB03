@@ -1,16 +1,16 @@
 <h1 align="center">
   ⚡ Welcome to the Cyberzone ⚡<br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Shewon+RB+%7C+Cybersecurity+Undergrad;Ethical+Hacker+in+Training;Exploring+the+Digital+Underground;Securing+Tomorrow's+Web+Today" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Suhas+Bandara+%7C+Cybersecurity+Undergraduate;Ethical+Hacker+in+Training;Exploring+the+Digital+Underground;Securing+Tomorrow's+Web+Today" alt="Typing SVG" />
 </h1>
 
 ---
 
 ### 🧠 About Me
 
-> 💻 I'm a **Cybersecurity undergraduate** passionate about ethical hacking, system security, and defending digital infrastructure.
+> 💻 **Hi! I'm a cybersecurity undergraduate with a strong interest in ethical hacking, system security, and digital forensics. I enjoy exploring vulnerabilities, participating in CTFs, and building tools to better understand how systems can be protected.**
 
 - 🧑‍💻 Studying the dark arts of network defense, malware analysis, and penetration testing  
-- 🛠 Currently sharpening my tools in **Linux**, **Python**, and **C**
+- 🛠 Currently sharpening my tools in **Linux**, **Python**,**C**,**Ubuntu** ,**Burpsuite**,**Cryptography**
 - 🕹 Playing CTFs, bug bounty hunting, and lurking in the terminal 👨‍🎤
 - 🌍 Based in **Sri Lanka** 🇱🇰
 
@@ -34,4 +34,4 @@
 ```txt
 🔐  Cybersecurity     🕶  Ethical Hacking     🧠  Malware Analysis
 🧬  Reverse Engineering     🧪  Vulnerability Research
-🛡️  Secure Code & Web App Defense
+🛡️  Secure Code & Web App Defense 
