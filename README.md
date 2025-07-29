@@ -1,7 +1,11 @@
 <h1 align="center">
-  ⚡ Welcome to the Cyberzone ⚡<br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Suhas+RB+%7C+Cybersecurity+Undergraduate;Ethical+Hacker+in+Training;Exploring+the+Digital+Underground;Securing+Tomorrow's+Web+Today" alt="Typing SVG" />
+  ⚡ Welcome to the Cyberzone ⚡
 </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Suhas+RB+%7C+Cybersecurity+Undergraduate;Ethical+Hacker+in+Training;Exploring+the+Digital+Underground;Securing+Tomorrow's+Web+Today" alt="Typing SVG" />
+</p>
+
 
 ---
 
