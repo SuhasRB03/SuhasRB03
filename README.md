@@ -10,7 +10,7 @@
 
 ### 🧠 About Me
 
-- 💻 **Hi! I'm a cybersecurity undergraduate with a strong interest in ethical hacking, system security, and digital forensics. I enjoy exploring vulnerabilities, participating in CTFs, and building tools to better understand how systems can be protected.**
+- 💻 **Hi! I'm a Cybersecurity undergraduate with a strong interest in ethical hacking, system security, and digital forensics. I enjoy exploring vulnerabilities, participating in CTFs, and building tools to better understand how systems can be protected.**
 
 - 🧑‍💻 Studying the dark arts of network defense, malware analysis, and penetration testing  
 - 🛠 Currently sharpening my tools in **Linux**, **Python**,**C**,**Ubuntu** ,**Burpsuite**,**Cryptography**
@@ -47,4 +47,5 @@ Secure Code & Web App Defense
 Ethical Hacking
 Malware Analysis
 Vulnerability Research
+Capture the Flags Challenges(CTFs)
  
